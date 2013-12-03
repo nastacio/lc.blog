@@ -37,9 +37,24 @@ import org.apache.abdera.parser.Parser;
  */
 public class HitCounter {
 
+	/**
+	 * Atom element for the overall rank element of an entry , which includes hit counters.
+	 */
     private static final QName RANK_ATTR = new QName("http://www.ibm.com/xmlns/prod/sn", "rank");
+    
+    /**
+	 * Atom attribute for the hit counter within a rank element.
+     */
     private static final String RANK_HITS = "http://www.ibm.com/xmlns/prod/sn/hit";
+    
+    /**
+     * Default ATOM feed when not specified elsewhere. 
+     */
     private static final String DEFAULT_ATOM_FEED = "https://www.ibm.com/developerworks/community/blogs/roller-ui/rendering/feed/69ec672c-dd6b-443d-add8-bb9a9a490eba/entries/atom?lang=en";
+
+    /*
+     * Public methods.
+     */
 
     /**
      * Parses an input feed and dumps basic statistics to a file or standard
