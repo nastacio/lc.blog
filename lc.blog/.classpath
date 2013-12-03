@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/Java60"/>
+	<classpathentry kind="lib" path="W:/home/nastacio/genome/bg.build.import/lib/prereq.abdera/abdera-1.1.2.jar" sourcepath="C:/Users/nastacio/.m2/repository/org/apache/abdera/abdera-bundle/1.1.2/abdera-bundle-1.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="W:/home/nastacio/genome/bg.build.import/lib/prereq.abdera/axiom-api-1.2.10.jar"/>
+	<classpathentry kind="lib" path="W:/home/nastacio/genome/bg.build.import/lib/prereq.abdera/axiom-impl-1.2.10.jar"/>
+	<classpathentry kind="lib" path="W:/home/nastacio/genome/bg.build.import/lib/prereq.abdera/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="W:/home/nastacio/genome/bg.build.import/lib/prereq.abdera/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="W:/home/nastacio/genome/bg.build.import/lib/prereq.abdera/commons-collections-3.2.jar"/>
+	<classpathentry kind="lib" path="W:/home/nastacio/genome/bg.build.import/lib/prereq.abdera/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="W:/home/nastacio/genome/bg.build.import/lib/prereq.abdera/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="W:/home/nastacio/genome/bg.build.import/lib/prereq.abdera/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="W:/home/nastacio/genome/bg.build.import/lib/prereq.abdera/ezmorph-1.0.4.jar"/>
+	<classpathentry kind="lib" path="W:/home/nastacio/genome/bg.build.import/lib/prereq.abdera/geronimo-activation_1.0.2_spec-1.1.jar"/>
+	<classpathentry kind="lib" path="W:/home/nastacio/genome/bg.build.import/lib/prereq.abdera/geronimo-activation_1.1_spec-1.0.2.jar"/>
+	<classpathentry kind="lib" path="W:/home/nastacio/genome/bg.build.import/lib/prereq.abdera/geronimo-javamail_1.4_spec-1.6.jar"/>
+	<classpathentry kind="lib" path="W:/home/nastacio/genome/bg.build.import/lib/prereq.abdera/geronimo-stax-api_1.0_spec-1.0.1.jar"/>
+	<classpathentry kind="lib" path="W:/home/nastacio/genome/bg.build.import/lib/prereq.abdera/htmlparser-1.0.5.jar"/>
+	<classpathentry kind="lib" path="W:/home/nastacio/genome/bg.build.import/lib/prereq.abdera/jaxen-1.1.1.jar"/>
+	<classpathentry kind="lib" path="W:/home/nastacio/genome/bg.build.import/lib/prereq.abdera/jetty-6.1.24.jar"/>
+	<classpathentry kind="lib" path="W:/home/nastacio/genome/bg.build.import/lib/prereq.abdera/jetty-util-6.1.24.jar"/>
+	<classpathentry kind="lib" path="W:/home/nastacio/genome/bg.build.import/lib/prereq.abdera/json-lib-2.2.2-jdk15.jar"/>
+	<classpathentry kind="lib" path="W:/home/nastacio/genome/bg.build.import/lib/prereq.abdera/servlet-api-2.5-20081211.jar"/>
+	<classpathentry kind="lib" path="W:/home/nastacio/genome/bg.build.import/lib/prereq.abdera/wstx-asl-3.2.6.jar"/>
+	<classpathentry kind="lib" path="W:/home/nastacio/genome/bg.build.import/lib/prereq.abdera/xmlsec-1.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
